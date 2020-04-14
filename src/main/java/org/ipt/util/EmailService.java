@@ -1,4 +1,4 @@
-package org.IsanHorizons.util;
+package org.ipt.util;
 
 import java.util.*;
 import javax.mail.*;
