@@ -76,7 +76,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
             <configuration>
-                <mainClass>org.IsanHorizons.Application</mainClass>
+                <mainClass>org.ipt.Application</mainClass>
             </configuration>
         </plugin>
         <plugin>
@@ -85,7 +85,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>org.IsanHorizons.Application</mainClass>
+                        <mainClass>org.ipt.Application</mainClass>
                     </manifest>
                 </archive>
             </configuration>

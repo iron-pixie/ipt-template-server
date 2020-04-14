@@ -1,11 +1,9 @@
-package org.IsanHorizons.controller;
+package org.ipt.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
-
-import org.IsanHorizons.util.EmailService;
 
 @RestController
 public class GeneralNotComplexController {
